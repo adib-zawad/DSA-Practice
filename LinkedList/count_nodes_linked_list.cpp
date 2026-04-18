@@ -1,5 +1,5 @@
 // Problem: Count number of nodes in a linked list
-// Approach: Traverse the list and increment counter
+// Approach: Traverse the list and increment counter/
 // Language: C++
 
 #include <iostream>
