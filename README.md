@@ -1,6 +1,15 @@
-DSA-Practice/
- ├── LinkedList/
- │    ├── linked_list_traversal.cpp
- │    ├── count_nodes_linked_list.cpp
- ├── Arrays/
- └── README.md
+# DSA Practice
+
+This repository contains my Data Structures practice in C++.
+
+## 📂 Topics
+
+### 🔗 Linked List
+- Traversal (print all elements)
+- Count nodes in a linked list
+
+### 🔢 Arrays
+- (coming soon)
+
+### 🔃 Sorting
+- (coming soon)
