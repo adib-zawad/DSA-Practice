@@ -1,3 +1,7 @@
+// Problem: Print elements of a linked list
+// Approach: Traverse from head to NULL
+// Language: C++
+
 #include <iostream>
 using namespace std;
 
