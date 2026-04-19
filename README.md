@@ -1,7 +1,12 @@
 ## 🔗 Linked List
+1. Traversal
+2. Count nodes
+3. Find middle
+4. Reverse list
+5. Detect cycle
+6. Remove cycle
+7. Merge sorted lists
 
-1. Traversal (print all elements)
-2. Count nodes in linked list
-3. Find middle element (slow & fast pointer)
-4. Reverse linked list (iterative approach)
-5. Detect cycle in linked list (Floyd’s algorithm)
+## 🔢 Arrays
+1. Find max element
+2. Reverse array
