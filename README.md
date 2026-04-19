@@ -10,3 +10,6 @@
 ## 🔢 Arrays
 1. Find max element
 2. Reverse array
+3. Second largest element
+4. Check if array is sorted
+5. Move zeros to end
