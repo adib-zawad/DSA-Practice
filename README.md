@@ -1,15 +1,5 @@
-# DSA Practice
+## 🔗 Linked List
 
-This repository contains my Data Structures practice in C++.
-
-## 📂 Topics
-
-### 🔗 Linked List
-- Traversal (print all elements)
-- Count nodes in a linked list
-
-### 🔢 Arrays
-- (coming soon)
-
-### 🔃 Sorting
-- (coming soon)
+1. Traversal (print all elements)
+2. Count nodes in linked list
+3. Find middle element (slow & fast pointer)
