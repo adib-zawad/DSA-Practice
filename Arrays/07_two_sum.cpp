@@ -1,4 +1,7 @@
-// Two sum problem (brute force)
+// Problem: Two Sum
+// Pattern: Hashing
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 #include <iostream>
 using namespace std;
