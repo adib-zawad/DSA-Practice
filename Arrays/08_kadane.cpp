@@ -1,4 +1,7 @@
-// Maximum subarray sum (Kadane's Algorithm)
+// Problem: Maximum Subarray Sum
+// Pattern: Dynamic Programming (Kadane’s Algorithm)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 #include <iostream>
 using namespace std;
