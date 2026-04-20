@@ -2,7 +2,7 @@
 // Approach: Two pointer technique
 // Time Complexity: O(n)
 // Space Complexity: O(1)
-// Problem: Move all zeros to end
+// Problem: Move all zeros to end/
 
 #include <iostream>
 using namespace std;
